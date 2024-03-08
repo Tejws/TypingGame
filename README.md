@@ -18,6 +18,6 @@ Explore different game modes, including time trials, accuracy challenges, and st
 
 Customizable Themes and Challenges:
 Personalize the gaming experience with a variety of themes and challenges. From classic typing scenarios to futuristic challenges, users can tailor the game to their preferences.
-
+ 
 Multiplayer and Social Features:
 Connect with friends or challenge other players in multiplayer mode. Compete in typing races, collaborative challenges, and leaderboard competitions to add a social and competitive dimension to the game.
