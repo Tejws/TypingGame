@@ -6,7 +6,7 @@ Key Features:
 
 Interactive Gameplay:
 Engage in a dynamic and visually appealing gaming environment where users navigate through levels, challenges, and scenarios that require quick and accurate typing.
-
+ 
 Skill Progress Tracking:
 The game monitors and tracks users' typing progress over time, providing detailed insights into speed improvements, error rates, and areas for enhancement. Users can set personal goals and track their journey to becoming typing experts.
 
