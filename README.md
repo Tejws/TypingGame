@@ -3,7 +3,7 @@ Typing Master Pro is an engaging and educational typing game designed to enhance
 ![typing_game_screenshot](https://github.com/Tejws/TypingGame/assets/154742112/021f7d20-9948-4040-b1e9-b54a5df4c20b)
 ![typing_game_screenshot2](https://github.com/Tejws/TypingGame/assets/154742112/1d4c50b4-27fe-4818-ab92-68fcb181d57c)
  
-Key Features:  
+Key Features: 
  
 Interactive Gameplay:  
 
